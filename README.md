@@ -1,2 +1,8 @@
 # PORTFOLIO
 Some implemented projects are collected here
+| Name | Description | Tech stack |
+|----------|----------|----------|
+| Row1Col1 | Row1Col2 | Row1Col3 |
+| Row2Col1 | Row2Col2 | Row2Col3 |
+| Row3Col1 | Row3Col2 | Row3Col3 |
+
