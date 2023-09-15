@@ -2,7 +2,5 @@
 Some implemented projects are collected here
 | Name | Description | Tech stack |
 |----------|----------|----------|
-| Row1Col1 | Row1Col2 | Row1Col3 |
-| Row2Col1 | Row2Col2 | Row2Col3 |
-| Row3Col1 | Row3Col2 | Row3Col3 |
+| Impact of Content, Geography & Economic Indicators on YouTube Popularity | Investigating YouTube success: exploring correlations between channel popularity, content type, country of origin, and economic factors. These insights aim to guide emerging creators. | python, pandas, numpy, seaborn, matplotlib, folium, plotly, statsmodels |
 
